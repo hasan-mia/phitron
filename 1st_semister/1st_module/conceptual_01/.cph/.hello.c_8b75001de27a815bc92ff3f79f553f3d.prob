@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"/home/cracker/Desktop/phitron/1st_semister/conceptual_01/hello.c","tests":[{"id":1712238385248,"input":"5 10","output":"5 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/cracker/Desktop/phitron/1st_semister/conceptual_01/hello.c","group":"local","local":true}
